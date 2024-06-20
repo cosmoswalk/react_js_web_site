@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50423f2a.css",
+    "main.js": "/static/js/main.41792ace.js",
+    "static/js/27.6552ce56.chunk.js": "/static/js/27.6552ce56.chunk.js",
+    "static/media/_Logo.png": "/static/media/_Logo.9d3b48981b3aed5d76ac.png",
+    "static/media/about.png": "/static/media/about.46665ec597833aac4277.png",
+    "static/media/screen.jpg": "/static/media/screen.e1429e1942b38e47d1fd.jpg",
+    "static/media/humans_faucet.png": "/static/media/humans_faucet.62f85000f9a0e4409dbf.png",
+    "static/media/arch_faucet.png": "/static/media/arch_faucet.2d78339c47614a11b8b0.png",
+    "static/media/umee_faucet.png": "/static/media/umee_faucet.7513dec34370bd0f23fc.png",
+    "static/media/quicksilver_faucet.png": "/static/media/quicksilver_faucet.3ddce5438d8d5768e016.png",
+    "static/media/bg.png": "/static/media/bg.4d0f66d73ac9aacd2636.png",
+    "static/media/logo.png": "/static/media/logo.959e60e507f196af5f8b.png",
+    "static/media/raleway-regular.woff2": "/static/media/raleway-regular.ac6d55fb99dbe0ca591e.woff2",
+    "static/media/outfit-regular.woff2": "/static/media/outfit-regular.c0e2986042851b20b652.woff2",
+    "static/media/letter.svg": "/static/media/letter.eb11a2610d933483aefaaaba531236ea.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.50423f2a.css",
+    "static/js/main.41792ace.js"
+  ]
+}
